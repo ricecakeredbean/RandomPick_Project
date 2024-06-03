@@ -1,4 +1,4 @@
-<h1 align ="center">Hero Commander</h1>
+<h1 align ="center">RandomPick_Project</h1>
 <div align = "left">
   <h2>프로젝트 소개</h2>
   RandomPick_Project 는 게임에서의 랜덤뽑기를 구현해본 프로젝트입니다.

@@ -13,14 +13,14 @@ MonoBehaviour:
   m_Name: GambleData
   m_EditorClassIdentifier: 
   GradeDatas:
-  - Grade: 0
-    Rate: 0.5
-  - Grade: 1
-    Rate: 0.3
-  - Grade: 2
-    Rate: 0.15
-  - Grade: 3
-    Rate: 0.03
   - Grade: 4
     Rate: 0.02
+  - Grade: 3
+    Rate: 0.03
+  - Grade: 2
+    Rate: 0.15
+  - Grade: 1
+    Rate: 0.3
+  - Grade: 0
+    Rate: 0.5
   debugTotalRate: 1

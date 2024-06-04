@@ -42,7 +42,7 @@ public class GambleData : ScriptableObject
 }
 
 [Serializable]
-public struct GradeData//등급에 따른 확률을 저장하기 위한 클래스
+public struct GradeData//등급에 따른 확률을 저장하기 위한 스트럭트
 {
     public GradeType Grade;
     public float Rate;

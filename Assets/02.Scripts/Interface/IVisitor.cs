@@ -2,13 +2,13 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public interface IVisitor
+public interface IVisit//구체화
 {
-    public void Visit(IElement element);
+    public void Visit(IVisitElement element);
 }
 
-public interface IElement
+public interface IVisitElement//넘겨주는 놈
 {
-    public void Accept(IVisitor visitor);
+    public void Accept(IVisit visitor);
 }
 
